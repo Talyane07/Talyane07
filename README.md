@@ -5,5 +5,4 @@ Meu nome é Talyane
 
 >@valenguinha._
 
-![]()
-https://media.tenor.com/qNLTmuL6muQAAAAd/stray-kids.gif
+![](https://media.tenor.com/qNLTmuL6muQAAAAd/stray-kids.gif)
